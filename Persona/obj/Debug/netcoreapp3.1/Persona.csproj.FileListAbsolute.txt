@@ -1,0 +1,8 @@
+C:\Users\DarkSlayer\source\repos\DavidSpecFlowTest\Persona\bin\Debug\netcoreapp3.1\Persona.deps.json
+C:\Users\DarkSlayer\source\repos\DavidSpecFlowTest\Persona\bin\Debug\netcoreapp3.1\Persona.dll
+C:\Users\DarkSlayer\source\repos\DavidSpecFlowTest\Persona\bin\Debug\netcoreapp3.1\Persona.pdb
+C:\Users\DarkSlayer\source\repos\DavidSpecFlowTest\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\DavidSpecFlowTest\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\DavidSpecFlowTest\Persona\obj\Debug\netcoreapp3.1\Persona.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\DavidSpecFlowTest\Persona\obj\Debug\netcoreapp3.1\Persona.dll
+C:\Users\DarkSlayer\source\repos\DavidSpecFlowTest\Persona\obj\Debug\netcoreapp3.1\Persona.pdb

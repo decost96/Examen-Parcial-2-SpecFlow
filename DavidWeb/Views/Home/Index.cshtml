@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Generador de Personas";
+}
+
+<script>
+function myFunction() {
+  alert("Persona Creada Correctamente!");
+}
+</script>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<form action="/home/resultado">
+    <label>Nombre:</label>
+    <input type="text" name="nombre" />
+    <br>
+    <br>
+    <label>Apellido:</label>
+    <input type="text" name="apellido" />
+    <br>
+    <br>
+    <label>Cedula:</label>
+    <input type="text" name="cedula" />
+    <br>
+    <br>
+    <label>Ocupacion:</label>
+    <input type="text" name="ocupacion" />
+    <br>
+    <br>
+    <label>Lugar de Trabajo:</label>
+    <input type="text" name="lugarTrabajo" />
+    <br>
+    <br>
+    <label>Horario:</label>
+    <input type="text" name="horario" />
+    <br>
+    <br>
+    <input type="submit" value="Generar" onclick="myFunction()"/>
+</form>
